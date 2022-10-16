@@ -9,7 +9,7 @@
         "เว็บหวยออนไลน์รวย",
         "รวย"
     ],
-    "repository": "git+https://github.com/basicjame1/ruay.git",
+    "repository": "https://github.com/basicjame1/ruay",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
